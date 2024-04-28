@@ -23,11 +23,11 @@
         <h1>ENCRYPTIFY</h1>
         <div id="upper-menu">
             <div class="upper-menu-btn">
-            <button onclick="window.location.href='index.html'">Home</button>
-            <button onclick="window.location.href='enc_desc.php'">Encryption</button>
-            <button>Decryption</button>
-            <button>How it Works</button>
-            <button>Contact</button>
+                <button onclick="window.location.href='index.html'">Home</button>
+                <button onclick="window.location.href='enc_desc.php'">Encryption</button>
+                <button onclick="window.location.href='desc.php'">Decryption</button>
+                <button onclick="window.location.href='data_store.php'">Data Store</button>
+                <button onclick="window.location.href='#credits'">Contact</button>
             </div>
         </div>
         <div class="login-btn">
@@ -54,12 +54,12 @@
                 <input type="submit" value="submit" id="submit" name="submit">
             </div>
         </form>
-        
+    </div>
         <?php
 function main($m,$k){
     global $keyarr,$len;
     $encmessage = "";
-    $key = $k;
+    $key = strtoupper($k);
     $keyarr = str_split($key);
 
     $message = strtoupper($m);
