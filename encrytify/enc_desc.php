@@ -110,7 +110,7 @@ if (isset($_POST['submit'])){
     <div id="footer">
         <p id="end-head">ENCRYPTIFY</p>
         <div id="credits">
-            <p>Made By MasterANK(Ankit Aggarwal)</p> <br>
+            <p>Made By: <br> MasterANK(Ankit Aggarwal) <br> Jatin Garg</p> <br>
             <div>
                 <a href="https://github.com/MasterANK" target=”_blank”><img class="social-media" src="https://i.gyazo.com/85e7ce9196ae635161fec921602903a7.png"></a>
                 <a href="https://www.instagram.com/masterank15/" target=”_blank”><img class="social-media" src="https://freelogopng.com/images/all_img/1683193139instagram-icon-png-white.png"></a>
