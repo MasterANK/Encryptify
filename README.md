@@ -2,7 +2,7 @@
 Visit the Website at :  [encryptify.free.nf](http://encryptify.free.nf/)
 
 
-## Development Team
+## Dev Team
 
 | Name                       | GitHub Profile                                  |
 |----------------------------|-------------------------------------------------|
