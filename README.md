@@ -7,4 +7,4 @@ Visit the Website at :  [encryptify.free.nf](http://encryptify.free.nf/)
 | Name                       | GitHub Profile                                  |
 |----------------------------|-------------------------------------------------|
 | MasterANK (Ankit Aggarwal) | [@MasterANK](https://github.com/MasterANK)         |
-| Jane Smith                 | [@JatinGarg](https://github.com/Jatin-Garg1208)      |
+| Jatin Garg                 | [@JatinGarg](https://github.com/Jatin-Garg1208)      |
